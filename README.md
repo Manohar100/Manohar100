@@ -1,31 +1,28 @@
+### Hi there 👋, MANOHAR KUMAR JHA
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Hello everyone.. I have completed my BCA (Bachelor's of Computer Application) from RANCHI UNIVERSITY,RANCHI And currently i am pursuing MCA
+
+Skills:  REACT / JS / HTML / CSS/C++/DSA/PYTHON/
+
+- 🌱 I’m currently learning MERN STACK 
+- 📫 How to reach me: https://www.linkedin.com/in/manohar-kumar-jha/ 
 
 
-**Manohar100/Manohar100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Manohar100)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/manohar-kumar-jha//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/manoharxprt100)  
 
-<h1 align="center">Hi 👋, I'm MANOHAR KUMAR JHA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-<img align="right" alt = "coding" width="400" scr="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Manohar100)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manohar100&label=Profile%20views&color=0e75b6&style=flat" alt="manohar100" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar100)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🌱 I’m currently learning **MERN STACK**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Manohar100&show_icons=true)  
 
-- 👨‍💻 All of my projects are available at [https://manohar100.github.io/github.io/](https://manohar100.github.io/github.io/)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Manohar100)  
 
-- 💬 Ask me about **Frontend Development**
+![GitHub metrics](https://metrics.lecoq.io/Manohar100)  
 
-- 📫 How to reach me **manoharxprt100@gmail.com**
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Manohar100)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar100&show_icons=true&locale=en&layout=compact" alt="manohar100" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar100&show_icons=true&locale=en" alt="manohar100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar100&" alt="manohar100" /></p>
+![Profile views](https://gpvc.arturio.dev/Manohar100)  
