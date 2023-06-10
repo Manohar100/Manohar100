@@ -91,8 +91,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Manohar100&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 <br/>  
 
@@ -102,7 +101,12 @@
 
 <br/>  
 
- 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manohar100&show_icons=true&locale=en&layout=compact" alt="manohar100" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manohar100&show_icons=true&locale=en" alt="manohar100" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manohar100&" alt="manohar100" /></p>
+
 
 <br/>  
 
@@ -117,4 +121,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
